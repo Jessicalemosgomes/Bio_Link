@@ -13,3 +13,5 @@ Projeto desenvolvido para a Fase 1 da Residência Online **IT Trends**, com foco
 - **Mobile-First**: Design planejado primeiramente para dispositivos móveis.
 - **Performance**: Otimização de ativos (imagens comprimidas) para carregamento quase instantâneo.
 - **Acessibilidade**: Contraste de cores validado e uso de atributos ARIA/Alt.
+
+## Link: https://jessicalemosgomes.github.io/Bio_Link/
